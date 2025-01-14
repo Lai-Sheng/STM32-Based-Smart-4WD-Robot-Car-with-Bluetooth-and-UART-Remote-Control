@@ -106,5 +106,5 @@ project-root/
 - Enhance the sound module with dynamic melody generation.
 - Add more advanced communication protocols (e.g., Wi-Fi or ZigBee).
 
-## Acknowledgments
-This project was developed as part of a course final evaluation, combining embedded systems concepts and hands-on hardware integration.
+## Special Note
+This project was created for the "Microprocessor Experiment" course offered by Professor Jichiang Tsai from National Chung Hsing University, Department of Electrical Engineering. It received the highest score in the class and was selected as a reference example for the next year's course demonstration video.
