@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project implements a four-wheel-drive (4WD) robot car controlled via Bluetooth and UART. The system is powered by STM32 microcontrollers, combining embedded systems expertise with motor control, remote communication, and basic obstacle detection.
+[You can view the demo on YouTube here.](https://youtu.be/NcwamNIlDfE)
 
 ## Features
 - **Remote Control**: Control the robot car via Bluetooth commands sent over UART.
